@@ -16,6 +16,9 @@ a {
 html {
     scroll-behavior: smooth;
 }
+/*#home, #about, #feature, #price, #contact {
+    scroll-padding-top: 20px;
+}*/
 #testi, #contact {
     background: #D8E3E7;
 }
@@ -75,7 +78,7 @@ header {
     width: 50%;
 }
 .header-right .isi{
-    margin: 40px 0 0 100px;
+    margin: 150px 0 0 100px;
     color: #fff;
 }
 .isi h2{
