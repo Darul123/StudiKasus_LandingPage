@@ -367,6 +367,9 @@ footer {
     justify-content: space-between;
     align-items: flex-start;
 }
+.footer-left .logo p {
+    color: #fff;
+}
 .footer-right {
     width: 50%;
     height: 150px;
